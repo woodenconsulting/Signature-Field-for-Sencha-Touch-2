@@ -7,11 +7,11 @@ The SignatureField extension for Sencha Touch 2.x extends Ext.field.Field and pr
 
 ## Using The Example Applications
 
-I did not include the Sencha Touchsource files in the example application folder. To use the example application, first copy the SignatureField source to the example's root directory.
+I did not include the Sencha Touch source files in the example application folder. To use the example application, first copy the SignatureField source to the example's root directory.
 
 Now copy the **touch** folder to the root of the SenchaTouchExample application.
 
-You can easily get a copy of the folder via command line by creating a sample application with Sencha CMD. Make sure you are using the Sencha Touch framework folder and run the following command via Sencha CMD:
+You can easily get a copy of the **touch** folder via command line by creating a sample application with Sencha CMD. Make sure you are using the Sencha Touch framework folder and run the following command via Sencha CMD:
 
 **sencha generate app TestApp \path\to\generate\app**
 
